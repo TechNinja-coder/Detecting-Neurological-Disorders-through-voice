@@ -1,4 +1,5 @@
 !pip install joblib
+!pip install streamlit
 
 import torch
 import streamlit as st
