@@ -1,0 +1,2 @@
+This is a project that is trying to see if neuroligical disorders could be analyzed through voice. This project is not made to be a replacement of medical diagnosis and only is 
+the beginning, please do not base your diagnosis on this project.
